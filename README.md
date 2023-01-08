@@ -1,3 +1,3 @@
 # SnakeJS
 
-## Just a simple Snake game I made in Javascript using p5.js
+## Just a simple Snake game I made using p5.js
