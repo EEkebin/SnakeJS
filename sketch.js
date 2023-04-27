@@ -22,6 +22,7 @@ function draw() {
     score = snake.total;
     fill(255);
     textSize(32);
+    textAlign(LEFT);
     text(score * 15, 10, 30);
     if (snake.dead) {
         background(0);
